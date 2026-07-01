@@ -70,18 +70,6 @@ Aplicação mobile para criação, gestão e participação em eventos desportiv
 
 **Tecnologias:** Kotlin · Jetpack Compose · Supabase · Realtime · Auth
 
-### CC-Reader
-
-Aplicação para interacção com o Cartão de Cidadão Português, com foco em arquitectura MVC e comunicação com serviços locais.
-
-**Tecnologias:** C# · .NET · MVC · Smart Card Integration
-
-### AI / Reinforcement Learning Project
-
-Projecto académico relacionado com inteligência artificial e aprendizagem por reforço aplicada a simulação.
-
-**Tecnologias:** Python · Flask · Reinforcement Learning · Simulation
-
 ---
 
 ## GitHub Stats
