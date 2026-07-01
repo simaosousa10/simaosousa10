@@ -72,11 +72,19 @@ Aplicação mobile para criação, gestão e participação em eventos desportiv
 
 ---
 
-## GitHub Stats
+## 📊 Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=simaosousa10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaosousa10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img 
+    height="180em" 
+    src="https://github-stats-extended.vercel.app/api?username=simaosousa10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-pt" 
+    alt="GitHub Stats" 
+  />
+  <img 
+    height="180em" 
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=simaosousa10&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Tecnologias%20mais%20usadas" 
+    alt="Linguagens mais usadas" 
+  />
 </p>
 
 ---
