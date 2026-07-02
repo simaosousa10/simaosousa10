@@ -62,24 +62,28 @@ A minha experiência no futebol, incluindo o papel de capitão, ajudou-me a dese
 
 ---
 
-## Projectos em destaque
+## Projectos Universitários
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>🛒 DealRadar</h3>
+    <td colspan="2">
+      <h3>🏆 SquadUp</h3>
       <p>
-        Plataforma web de comparação de preços, com autenticação, gestão de produtos, lojas, categorias, histórico de preços e relatórios em PDF.
+        Aplicação móvel Android para gestão de eventos desportivos, com criação de eventos, equipas, inscrições, bilhetes, mapa, notificações, jogos em directo e painel de administração.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/.NET-8.0-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Room-6DB33F?style=flat-square" />
       </p>
-      <a href="https://github.com/simaosousa10/DealRadar">
+      <a href="https://github.com/EI-3C-GrupoB/SquadUp/">
         <img src="https://img.shields.io/badge/Ver%20repositório-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>🎵 AI Music Composer</h3>
       <p>
@@ -92,6 +96,20 @@ A minha experiência no futebol, incluindo o papel de capitão, ajudou-me a dese
         <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
       </p>
       <a href="https://github.com/simaosousa10/AIMusicComposer">
+        <img src="https://img.shields.io/badge/Ver%20repositório-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🛒 DealRadar</h3>
+      <p>
+        Plataforma web de comparação de preços, com autenticação, gestão de produtos, lojas, categorias, histórico de preços e relatórios em PDF.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/.NET-8.0-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+      <a href="https://github.com/simaosousa10/DealRadar">
         <img src="https://img.shields.io/badge/Ver%20repositório-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
