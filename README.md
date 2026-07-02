@@ -163,12 +163,3 @@ A minha experiência no futebol, incluindo o papel de capitão, ajudou-me a dese
     alt="Linguagens mais usadas" 
   />
 </p>
-
----
-
-## Contacto
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sim%C3%A3o-sousa-550ab32b0/">LinkedIn</a> ·
-  <a href="mailto:TEU_EMAIL">Email</a>
-</p>
